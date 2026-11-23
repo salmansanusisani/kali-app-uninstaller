@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kali Uninstaller
+Comment=Remove manually installed APT packages
+Exec=/usr/bin/kali-uninstaller
+Icon=kali-uninstaller
+Terminal=false
+Categories=System;Settings;
